@@ -25,4 +25,6 @@
 1.        npm build
 1.        npm start
 
+function formatwebp()
+
     function copyimages()
