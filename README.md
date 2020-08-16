@@ -22,7 +22,7 @@
 * Grunt
 * Webpack
 
-1 Начало
+1. Начало
 2.        npm build
 3.        npm start
 4. Конец
