@@ -34,7 +34,6 @@
 [Дмитрий Трошкин](https://vk.com/villainrox)
 [JavaScript](https://learn.javascript.ru "Учебник по JavaScript")
 
-[Мой instagram] [Ссылка]:
-
-[Ссылка]: https://www.instagram.com "instagram"
-
+*Курсивный шрифт*
+**Полужирный шрифт**
+***Курсивный полужирный шрифт***
