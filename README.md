@@ -22,8 +22,10 @@
 * Grunt
 * Webpack
 
-1.        npm build
-1.        npm start
+1 Начало
+2.        npm build
+3.        npm start
+4. Конец
 ***
     function copyimages()
     function copyimages()
