@@ -14,10 +14,13 @@
 > Это цитата.
 Выглядит неплохо, верно?
 
-5. HTML
-3. CSS
-4. JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 * Gulp
 * Grunt
 * Webpack
+
++        <npm build>
++    <npm start>
