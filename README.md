@@ -24,7 +24,7 @@
 
 1.        npm build
 1.        npm start
-
+***
     function copyimages()
     function copyimages()
     function copyimages()
