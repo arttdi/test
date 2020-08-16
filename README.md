@@ -34,7 +34,7 @@
 [Дмитрий Трошкин](https://vk.com/villainrox)
 [JavaScript](https://learn.javascript.ru "Учебник по JavaScript")
 
-пример] [id]:
+[пример] [id]:
 
 [id]: http://example.com/ "Необязательная подсказка"
 
