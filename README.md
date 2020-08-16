@@ -23,15 +23,14 @@
 * Webpack
 
 1. Начало
-2.        npm build
-3.        npm start
+2. 'npm build'
+3. 'npm start'
 4. Конец
 ***
     function copyimages()
     function copyimages()
     function copyimages()
     
-[Дмитрий Трошкин](https://vk.com/villainrox)
 [JavaScript](https://learn.javascript.ru "Учебник по JavaScript")
 
 *Курсивный шрифт*
