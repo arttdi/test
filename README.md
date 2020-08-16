@@ -15,8 +15,8 @@
 Выглядит неплохо, верно?
 
 1. HTML
-2. CSS
-3. JavaScript
+3. CSS
+4. JavaScript
 
 * Gulp
 * Grunt
