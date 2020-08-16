@@ -25,7 +25,4 @@
 1.        npm build
 1.        npm start
 
-    function copyimages() {
-      return src('source/img/dest/**/*')
-      .pipe(dest('build/img'))
-    }
+    function copyimages()
