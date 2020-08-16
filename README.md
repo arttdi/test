@@ -41,6 +41,6 @@
 
 Напиши `npm build` в терминале, чтобы сделать сборку проекта
 
- npm start
+        npm start
 
 ![Логотип npm](https://trabpukcip.gallerycdn.vsassets.io/extensions/trabpukcip/vscode-npm-scripts/0.2.1/1526255468123/Microsoft.VisualStudio.Services.Icons.Default)
