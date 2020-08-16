@@ -34,7 +34,7 @@
 [Дмитрий Трошкин](https://vk.com/villainrox)
 [JavaScript](https://learn.javascript.ru "Учебник по JavaScript")
 
-[пример] [id]:
+[Мой instagram] [Ссылка]:
 
-[id]: http://example.com/ "Необязательная подсказка"
+[id]: https://www.instagram.com "instagram"
 
