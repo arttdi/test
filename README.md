@@ -30,3 +30,7 @@
     function copyimages()
     function copyimages()
     function copyimages()
+    
+[Дмитрий Трошкин](https://vk.com/villainrox)
+[JavaScript](https://learn.javascript.ru "Учебник по JavaScript")
+
