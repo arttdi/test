@@ -26,3 +26,5 @@
 1.        npm start
 
     function copyimages()
+    function copyimages()
+    function copyimages()
