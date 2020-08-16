@@ -36,5 +36,5 @@
 
 [Мой instagram] [Ссылка]:
 
-[id]: https://www.instagram.com "instagram"
+[Ссылка]: https://www.instagram.com "instagram"
 
