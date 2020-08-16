@@ -22,5 +22,5 @@
 * Grunt
 * Webpack
 
-+        <npm build>
-+    <npm start>
++        npm build
++        npm start
